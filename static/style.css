@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background: linear-gradient(to right, #141E30, #243B55, #1B2735);
+    font-family: "Roboto", sans-serif !important;
+}
+
+.bg-glass {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(2px);
+}
+.btn-submit{
+    background: #243B55;
+    color: white;
+}
+
+.btn-upload1{
+    background: #356f8f;
+    color: white;
+    border: 1px solid #243B55;
+    text-decoration: none;
+}
+
+form label{
+    margin-bottom: 10px;
+}
