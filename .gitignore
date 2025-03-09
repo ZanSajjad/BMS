@@ -1,8 +1,11 @@
-# Ignore virtual environments
+# Ignore virtual environment
 .venv/
 
 # Ignore database files
-.database.db
 *.sqlite
-*.sqlite3
+*.db
 
+# Ignore compiled files
+__pycache__/
+*.pyc
+*.pyo
