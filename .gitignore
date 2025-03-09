@@ -1,0 +1,8 @@
+# Ignore virtual environments
+.venv/
+
+# Ignore database files
+.database.db
+*.sqlite
+*.sqlite3
+
